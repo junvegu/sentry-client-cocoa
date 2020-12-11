@@ -7,10 +7,6 @@ import Sentry
 import Swift
 import UIKit
 @_exported import sentry_client_cocoa
-@objc public class LyraSentryClient : Sentry.Client {
-  @objc override dynamic public init?(options: Sentry.Options)
-  @objc deinit
-}
 @objc public class LyraSentrySDK : Sentry.SentrySDK {
   public static let testEnvironment: Swift.String
   @objc override dynamic public class func start(options: Sentry.Options)
@@ -18,5 +14,9 @@ import UIKit
   @objc override dynamic public class func start(options optionsDict: [Swift.String : Any] = [:])
   @available(*, unavailable, message: "You cannot use this method")
   @objc override dynamic public class func start(configureOptions: @escaping (Sentry.Options) -> Swift.Void)
+  @objc deinit
+}
+@objc public class LyraSentryClient : Sentry.Client {
+  @objc override dynamic public init?(options: Sentry.Options)
   @objc deinit
 }
