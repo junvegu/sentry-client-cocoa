@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'sentry_client_cocoa'
-  s.version          = '1.0.0'
+  s.version          = '2.0.0'
   s.summary          = 'sentry_client_cocoa is intended to sanitize the data before sending to the Sentry servers'
 
   s.homepage         = 'https://github.com/lyra/sentry-client-cocoa'
@@ -8,8 +8,13 @@ Pod::Spec.new do |s|
   s.author           = { 'Lyra Dev Mobile' => 'dev-mobile@lyra-network.com' }
   s.source           = { :git => 'https://github.com/lyra/sentry-client-cocoa.git', :tag => s.version.to_s }
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
 
-  s.ios.vendored_frameworks = 'sentry_client_cocoa.framework'
+  s.ios.vendored_frameworks = 'sentry_client_cocoa.xcframework'
+
+  s.dependency 'Sentry', '~> 7.13.0'
+
+  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   end
