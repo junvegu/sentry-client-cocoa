@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'sentry_client_cocoa'
-  s.version          = '2.0.0'
+  s.version          = '2.0.1'
   s.summary          = 'sentry_client_cocoa is intended to sanitize the data before sending to the Sentry servers'
 
   s.homepage         = 'https://github.com/lyra/sentry-client-cocoa'
@@ -13,8 +13,5 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'sentry_client_cocoa.xcframework'
 
   s.dependency 'Sentry', '~> 7.13.0'
-
-  s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-  s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
   end
