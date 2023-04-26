@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Z9dfbXlT447LVVZ++ZZlQapB9Vk=
+		I/9mcg/hbuyZ4HpX6+82/lO26Pg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -26,19 +26,19 @@
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		P5vG98wjZtJ3Cbq6SXS9QyCMqhU=
+		tQqzhDUT4c59woqD0u9pmF/LcX0=
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		oZ+ewBhTtQ9FJgKUXff0tud9jjU=
+		bx7hsMAclrtEPjig73ZkZ0SztJM=
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		P5vG98wjZtJ3Cbq6SXS9QyCMqhU=
+		tQqzhDUT4c59woqD0u9pmF/LcX0=
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		BTQvEw0lV+kpm8ppk2loahFRySw=
+		QAJ97KjkRQ4FTKHlXAp256O3PtI=
 		</data>
 		<key>lyra-pii.umd.js</key>
 		<data>
@@ -49,10 +49,6 @@
 	<dict>
 		<key>Headers/sentry_client_cocoa-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			INzEPXOqMxKZOn8C0jLPfhlWjYg=
-			</data>
 			<key>hash2</key>
 			<data>
 			LvwM/TGb3BnFInXjP7uiCmZy6cnPq6SfYK90U1/4Qio=
@@ -60,10 +56,6 @@
 		</dict>
 		<key>Headers/sentry_client_cocoa.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iduzkbAeGbMT2c7Ai8TEI2bGP0Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			9iM3WuYjfY14H9evGQ9JViOP+mTOa5NeWzyThEpTtOE=
@@ -71,10 +63,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OiCH0mnyYnU4pjLLx5hP8Mlngog=
-			</data>
 			<key>hash2</key>
 			<data>
 			ITmwL0lVJPlQei6uRPs2DS9ZITSc9Fe8qn4okEeZfxk=
@@ -82,10 +70,6 @@
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			73z7KPdUUWWV08Cs8MyBe2u0Nv4=
-			</data>
 			<key>hash2</key>
 			<data>
 			VVhoDy/W8BcWPVXGFFzOg/2RgxE+GSx+rwLYalIHvj4=
@@ -93,54 +77,34 @@
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P5vG98wjZtJ3Cbq6SXS9QyCMqhU=
-			</data>
 			<key>hash2</key>
 			<data>
-			r1QoboiSju1jDmz4YlvyOFUmone5uzR4jzqMFot7sIs=
+			ObQfC0+zRc0odmFfvsIqrKii33icimI4rrQcrmAYshk=
 			</data>
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oZ+ewBhTtQ9FJgKUXff0tud9jjU=
-			</data>
 			<key>hash2</key>
 			<data>
-			HU9DHFDv8RRPD/o3jMPHoVM5y60TIUEzbNbzfHumR04=
+			+rWFz28Oq9O+xtNnQcA55XTQU0bVZuEw+Zzb5GjVhy4=
 			</data>
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P5vG98wjZtJ3Cbq6SXS9QyCMqhU=
-			</data>
 			<key>hash2</key>
 			<data>
-			r1QoboiSju1jDmz4YlvyOFUmone5uzR4jzqMFot7sIs=
+			ObQfC0+zRc0odmFfvsIqrKii33icimI4rrQcrmAYshk=
 			</data>
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BTQvEw0lV+kpm8ppk2loahFRySw=
-			</data>
 			<key>hash2</key>
 			<data>
-			MabugiCYjZ2AdIwcmDmvmNwnEw9OcQLf4LLkNagetJk=
+			dD93jIxpFsAtnUXbH6Swjd/JhodZc7YrhIWibRUj254=
 			</data>
 		</dict>
 		<key>lyra-pii.umd.js</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wgar4jp7969fQPj7vwEIWqSM3d0=
-			</data>
 			<key>hash2</key>
 			<data>
 			nxOnkttoU03nVpuVwK4HHkffaCTK6H/7p5uo8qpK+z0=
