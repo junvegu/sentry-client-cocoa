@@ -12,6 +12,6 @@ Pod::Spec.new do |s|
 
   s.ios.vendored_frameworks = 'sentry_client_cocoa.xcframework'
 
-  s.dependency 'Sentry', '~> 7.13.0'
+  s.dependency 'Sentry', '7.13.0'
 
   end
