@@ -2,5 +2,5 @@
     "1.0.0": "https://bitrise_admin:sOvMmKSitIlsxCqNUej4@external-repository.lyra-labs.fr/repository/mvn-sdk-group/com/lyra/sentry_client_cocoa/1.0.0/sentry_client_cocoa-1.0.0.zip",
     "2.0.0": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/2.0.0/sentry_client_cocoa.xcframework.zip",
     "3.0.0": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/3.0.0/sentry_client_cocoa.xcframework.zip",
-    "3.0.2": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/3.0.2/sentry_client_cocoa.xcframework.zip"
+    "4.0.0": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/4.0.0/sentry_client_cocoa.xcframework.zip"
 }
