@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		sPnSmMThv+copO1X7HHNA8DKroY=
+		k+OSpNJp+qbxRoJrn51JsETcKIE=
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		BhhZA+En73tVHinr/VZsLIo+X1s=
+		0f3owPDd7DJLoJl6IN9GLe+bTQY=
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		sPnSmMThv+copO1X7HHNA8DKroY=
+		k+OSpNJp+qbxRoJrn51JsETcKIE=
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/sentry_client_cocoa.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		44ZSnTIFMMbHWqhVKZQSZ7mafDM=
+		md0Pn0y5eYBjybMkLzYAiCnLNck=
 		</data>
 		<key>lyra-pii.umd.js</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bTwlfxuzbVX/PB4ZQcmLTeXDa8CyE/EvjMGilYPwps=
+			wKBrMy1WPRjLx8gPD9DpCzT9quZcYfSPBV2ytd2vNck=
 			</data>
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -109,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z5rHJuu6lYN2sSiOIX1PGutNT07uycgGIYwNwQ8TfhI=
+			/Vc1b1IqPYWGTW3GjYM4B8oBJRLO+HuksEIoKIcVF/8=
 			</data>
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bTwlfxuzbVX/PB4ZQcmLTeXDa8CyE/EvjMGilYPwps=
+			wKBrMy1WPRjLx8gPD9DpCzT9quZcYfSPBV2ytd2vNck=
 			</data>
 		</dict>
 		<key>Modules/sentry_client_cocoa.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZgICwcfrJU7UxVXWz/d0DqSluNtdVE3hJLlZ0oXle0=
+			0Wq6kv8cGhU7Cz2ziP0moLcY3i+iBhO3Pjdqvo0F5Xo=
 			</data>
 		</dict>
 		<key>lyra-pii.umd.js</key>
