@@ -3,5 +3,6 @@
     "2.0.0": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/2.0.0/sentry_client_cocoa.xcframework.zip",
     "3.0.0": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/3.0.0/sentry_client_cocoa.xcframework.zip",
     "4.0.0": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/4.0.0/sentry_client_cocoa.xcframework.zip",
-    "4.0.1": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/4.0.1/sentry_client_cocoa.xcframework.zip"
+    "4.0.1": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/4.0.1/sentry_client_cocoa.xcframework.zip",
+    "4.0.2": "https://raw.githubusercontent.com/lyra/sentry-client-cocoa/4.0.2/sentry_client_cocoa.xcframework.zip"
 }
