@@ -9,7 +9,7 @@ let package = Package(
     products: [
         .library(
             name: "sentry_client_cocoa",
-            targets: ["sentry_client_cocoa"]
+            targets: ["WrapperTarget"]
         )
     ],
     dependencies: [
