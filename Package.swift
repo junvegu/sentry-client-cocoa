@@ -23,7 +23,7 @@ let package = Package(
         .target(
             name: "WrapperTarget",
             dependencies: [
-                "Sentry",
+                .product(name: "Sentry", package: "sentry-cocoa"),
                 .target(name: "sentry_client_cocoa")
             ],
             path: "./Sources"
