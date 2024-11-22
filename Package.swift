@@ -24,11 +24,11 @@ let package = Package(
             name: "sentry_client_cocoa_wrapper",
             dependencies: [
                 .product(name: "Sentry", package: "sentry-cocoa"),
-                .target(name: "sentry_client_cocoa") // Vincula al binaryTarget
+                .target(name: "sentry_client_cocoa")
             ],
-            path: "./Sources", // Añade un archivo Swift aquí (vacío o de prueba)
+            path: "./Sources",
             linkerSettings: [
-                .linkedFramework("Sentry") // Asegura que se vincule en runtime
+                .linkedFramework("Sentry")
             ]
         )
     ]
