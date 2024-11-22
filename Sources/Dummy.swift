@@ -7,4 +7,7 @@
 
 import Foundation
 import Sentry
-import sentry_client_cocoa
+
+public class SentryClientWrapper {
+    public init() {}
+}
